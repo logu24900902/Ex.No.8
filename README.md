@@ -48,6 +48,53 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+### Example 1: Coastal Cliffside with Crashing Waves
+Analysis of the Target Concept
+This is a dramatic seascape photograph focusing on a massive, turquoise-blue wave violently crashing against dark, jagged coastal cliffs. The distinctive style is achieved through a long exposure effect, rendering the water with a smooth, white motion blur (silky water effect) that contrasts sharply with the rough, high-detail rock texture. The composition requires a low-angle perspective to emphasize the scale.
+### Basic Prompt
+```
+"A wave crashing against a cliff"
+```
+<img width="804" height="804" alt="image" src="https://github.com/user-attachments/assets/c738cedc-7e3c-4169-9ad5-8d68bd4ae577" />
+
+### Final Prompt
+```
+"Dramatic seascape photography, long exposure. Massive turquoise-blue wave violently crashing against dark, jagged coastal cliffs. The water is rendered with smooth, white motion blur (silky water effect) against the rough, high-detail rock texture. Low-angle perspective emphasizing the scale of the foam and spray. Bright sunlight, high contrast, highly detailed."
+```
+
+<img width="924" height="874" alt="image" src="https://github.com/user-attachments/assets/836e1134-730d-4457-a90f-0cfbf8e10f8a" />
+
+### Comparison Report Summary
+Similarities: The core element of the long exposure effect—the "silky water" against rough rock—was the main success. The AI accurately captured the high contrast between the dark cliffs and the brilliant white foam of the wave.
+
+### Differences
+The generated image often struggles to maintain a perfect balance between the motion-blurred water and the pin-sharp texture of the rock. The low-angle perspective might not be as extreme as required to fully convey the scale.
+
+## Example 2: Misty Forest with Sunbeams
+### Analysis of the Target Concept
+The image is an atmospheric nature photograph of a dense, ancient forest. The mood is mystical and serene, created by thick ground mist/fog and golden sunbeams filtering through the canopy. The subjects are tall, moss-covered trees and lush green foliage. The light shafts must be dramatic and visible within the ethereal fog.
+
+### Basic Prompt
+```
+"A misty forest with sunbeams"
+```
+<img width="904" height="585" alt="image" src="https://github.com/user-attachments/assets/aa04ecdc-2590-4743-9e4b-4af2c28747d4" />
+
+## Final Prompt
+"Atmospheric nature photograph of a dense, ancient forest shrouded in thick ground mist. Tall, moss-covered trees with dappled sunlight. Golden sunbeams pierce through the tree canopy, creating dramatic, visible shafts of light in the ethereal fog. Lush green foliage, mystical, serene, high dynamic range, highly detailed."
+
+<img width="924" height="924" alt="image" src="https://github.com/user-attachments/assets/e7940c6d-7f78-4a2d-9e92-d1671282a0aa" />
+
+## Comparison Report Summary
+### Similarities
+The prompt successfully invoked the ethereal, mystical mood with the use of thick ground mist and golden sunbeams. The core elements of lush green foliage and tall, moss-covered trees were present.
+
+### Differences
+The AI sometimes renders the mist as too uniform or opaque, which can dull the effect of the sunbeams. The forest itself may not always look truly "ancient" or dense enough.
+
+### Adjustment Lesson
+To improve the mist effect, add "dense, swirling mist with visible particles." To enhance the scale, specify "ancient redwood or pine forest" and emphasize the "verticality of the tree trunks."
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
