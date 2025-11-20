@@ -1,7 +1,8 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 28/10/2025
+# NAME: R.LOGU
+# Reg. No. : 212224230141 
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -55,14 +56,14 @@ This is a dramatic seascape photograph focusing on a massive, turquoise-blue wav
 ```
 "A wave crashing against a cliff"
 ```
-<img width="804" height="804" alt="image" src="https://github.com/user-attachments/assets/c738cedc-7e3c-4169-9ad5-8d68bd4ae577" />
+<img width="404" height="504" alt="image" src="https://github.com/user-attachments/assets/c738cedc-7e3c-4169-9ad5-8d68bd4ae577" />
 
 ### Final Prompt
 ```
 "Dramatic seascape photography, long exposure. Massive turquoise-blue wave violently crashing against dark, jagged coastal cliffs. The water is rendered with smooth, white motion blur (silky water effect) against the rough, high-detail rock texture. Low-angle perspective emphasizing the scale of the foam and spray. Bright sunlight, high contrast, highly detailed."
 ```
 
-<img width="924" height="874" alt="image" src="https://github.com/user-attachments/assets/836e1134-730d-4457-a90f-0cfbf8e10f8a" />
+<img width="524" height="574" alt="image" src="https://github.com/user-attachments/assets/836e1134-730d-4457-a90f-0cfbf8e10f8a" />
 
 ### Comparison Report Summary
 Similarities: The core element of the long exposure effect—the "silky water" against rough rock—was the main success. The AI accurately captured the high contrast between the dark cliffs and the brilliant white foam of the wave.
@@ -78,12 +79,12 @@ The image is an atmospheric nature photograph of a dense, ancient forest. The mo
 ```
 "A misty forest with sunbeams"
 ```
-<img width="904" height="585" alt="image" src="https://github.com/user-attachments/assets/aa04ecdc-2590-4743-9e4b-4af2c28747d4" />
+<img width="504" height="585" alt="image" src="https://github.com/user-attachments/assets/aa04ecdc-2590-4743-9e4b-4af2c28747d4" />
 
 ## Final Prompt
 "Atmospheric nature photograph of a dense, ancient forest shrouded in thick ground mist. Tall, moss-covered trees with dappled sunlight. Golden sunbeams pierce through the tree canopy, creating dramatic, visible shafts of light in the ethereal fog. Lush green foliage, mystical, serene, high dynamic range, highly detailed."
 
-<img width="924" height="924" alt="image" src="https://github.com/user-attachments/assets/e7940c6d-7f78-4a2d-9e92-d1671282a0aa" />
+<img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/e7940c6d-7f78-4a2d-9e92-d1671282a0aa" />
 
 ## Comparison Report Summary
 ### Similarities
